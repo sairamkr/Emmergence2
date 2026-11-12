@@ -1,0 +1,8 @@
+{
+  "name": "squish",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Squeeze cells to divide them; paper creatures, ruins and paper towns on the sand.",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=14" }
+}
